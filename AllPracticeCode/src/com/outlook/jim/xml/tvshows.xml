@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="tvshows.xsl" ?>
+
+<tvshows>	
+	<show>
+		<name>Life On Mars</name>
+		<release>2008</release>
+		<end_date>2009</end_date>
+		<network country="US">ABC</network>
+		<poster></poster>
+		<viewers units="millions">1.11</viewers>
+	</show>
+
+	<show>
+		<name>TV show 2</name>
+		<release>2006></release>
+		<end_date>2007</end_date>
+		<network country="UK">ABC</network>
+		<poster href="http://www.tanawatershop.com/wp-content/uploads/2013/02/tv-shows-montage.jpg" width="214" height="317" />
+		<viewers units="millions">2.22</viewers>		
+	</show>
+
+	<show>
+		<name>TV show 3</name>
+		<release>2010</release>
+		<end_date>2012</end_date>
+		<network country="US">ABC</network>
+		<poster href="http://images2.fanpop.com/images/photos/3500000/Nanda-s-TV-shows-DVDs-tfw-the-friends-whatever-3579447-2560-1920.jpg" width="214" height="317" />
+		<viewers units="millions">3.33</viewers>		
+	</show>
+</tvshows>
