@@ -2,6 +2,7 @@ package com.outlook.jim.simple_singleton;
 
 public class SimpleSingleton {
 	
+	//this is a comment
 	private static SimpleSingleton instance;
 	
 	private SimpleSingleton(){}
